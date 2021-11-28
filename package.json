@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/server",
+    "start": "ts-node ./src/server",
     "dev": "ts-node-dev --no-notify --respawn --transpile-only src/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,12 +16,12 @@
     "@types/graphql": "14.5.0",
     "@types/ws": "8.2.0",
     "prisma": "^3.5.0",
-    "ts-node": "^10.4.0",
     "ts-node-dev": "1.1.8",
     "typescript": "^4.5.2"
   },
   "dependencies": {
     "@prisma/client": "^3.5.0",
+    "ts-node": "^10.4.0",
     "apollo-server": "3.5.0",
     "graphql": "15.7.2",
     "graphql-scalars": "1.13.6"

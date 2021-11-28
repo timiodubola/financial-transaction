@@ -28,8 +28,8 @@ export const typeDefs = gql`
 
 export const resolvers = {
   Query: {
-    allTransaction : (_parent: unknown, _args: unknown , context: Context) => {
-      return context.prisma.transaction_.findMany()
+    allTransaction : async(_parent: unknown, _args: unknown , context: Context) => {
+      return await context.prisma.transaction_.findMany()
     }   
   },
   DateTime: DateTimeResolver

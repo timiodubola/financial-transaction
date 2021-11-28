@@ -7,3 +7,4 @@ new ApolloServer({ resolvers, typeDefs, context: context }).listen(
   () =>
     console.log(` Server ready at: http://localhost:4000`),
 )
+

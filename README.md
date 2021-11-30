@@ -2,10 +2,10 @@
 SPA that exhibits a page with a table of financial transactions that can be filtered by date range.
 
 ## Technology
-Vue, GraphQL, Prisma (ORM) & Postgres. Use TypeScript in the back-end. 
+Vue, GraphQL, Prisma (ORM) & Postgres and TypeScript used in the back-end. 
 
 ## System Architecture 
-![system architecture ]()
+![system architecture ](https://github.com/timiodubola/financial-transaction/blob/master/jp.jpg)
 
 ## Installation
 

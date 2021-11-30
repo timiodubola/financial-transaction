@@ -15,4 +15,4 @@ Postgres database is alos hosted
 
 ## Usage
 
-To test endpoints of API [https://fin-tech-timi.herokuapp.com/](https://fin-tech-timi.herokuapp.com/), also  check api documentation provided.
+To test endpoints of API [https://fin-tech-timi.herokuapp.com/](https://studio.apollographql.com/sandbox/explorer), also  check api documentation provided.

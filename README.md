@@ -16,7 +16,7 @@ Front-End Application deployment Repository: [https://github.com/timiodubola/fin
 
 ### Preview 
 
-Application deployment screengrab: [https://github.com/timiodubola/financial-transaction/blob/master/img/f.png](https://github.com/timiodubola/financial-transaction/blob/master/img/f.png)
+Application deployment screengrab: ![https://github.com/timiodubola/financial-transaction/blob/master/img/f.png](https://github.com/timiodubola/financial-transaction/blob/master/img/f.png)
 
 ## BackEnd (TypeScript, Graphql, Prisma ORM)
  

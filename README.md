@@ -14,6 +14,10 @@ Application deployment: [https://front-vue-1.herokuapp.com](https://front-vue-1.
 
 Front-End Application deployment Repository: [https://github.com/timiodubola/fin-tech-front](https://github.com/timiodubola/fin-tech-front)
 
+### Preview 
+
+Application deployment screengrab: [https://github.com/timiodubola/financial-transaction/blob/master/img/f.png](https://github.com/timiodubola/financial-transaction/blob/master/img/f.png)
+
 ## BackEnd (TypeScript, Graphql, Prisma ORM)
  
 ###  Usage

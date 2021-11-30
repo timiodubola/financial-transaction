@@ -11,7 +11,9 @@ Vue, GraphQL, Prisma (ORM) & Postgres and TypeScript used in the back-end.
 Frontend application was deployed on Heroku and Graphql API was consumed  using Apollo Client.
 
 Application deployment: [https://front-vue-1.herokuapp.com](https://front-vue-1.herokuapp.com/)
- 
+
+Front-End Application deployment Repository: [https://github.com/timiodubola/fin-tech-front](https://github.com/timiodubola/fin-tech-front)
+
 ## BackEnd (TypeScript, Graphql, Prisma ORM)
  
 ###  Usage

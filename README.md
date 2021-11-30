@@ -5,11 +5,11 @@ SPA that exhibits a page with a table of financial transactions that can be filt
 Vue, GraphQL, Prisma (ORM) & Postgres and TypeScript used in the back-end. 
 
 ## System Architecture 
-![system architecture ](https://github.com/timiodubola/financial-transaction/blob/master/jp.jpg)
+![system architecture ](https://github.com/timiodubola/financial-transaction/blob/master/img/jp.jpg)
 
 ## FrontEnd (VUE)
 Frontend application was deployed on Heroku and Graphql API was consumed  using Apollo Client.
- Application deployment: ![https://front-vue-1.herokuapp.com](https://front-vue-1.herokuapp.com/)
+Application deployment: ![https://front-vue-1.herokuapp.com](https://front-vue-1.herokuapp.com/)
  
 ## BackEnd (TypeScript, Graphql, Prisma ORM)
  
@@ -23,10 +23,10 @@ To test endpoints of API [https://fin-tech-timi.herokuapp.com/](https://studio.a
 ### Preview 
 
 #### AllTransaction endpoint
-![system architecture ](https://github.com/timiodubola/financial-transaction/blob/master/jp.jpg)
+![AllTransaction endpoint test ](https://github.com/timiodubola/financial-transaction/blob/master/img/e.png)
 
 #### DeatilsTransaction endpoint
-![system architecture ](https://github.com/timiodubola/financial-transaction/blob/master/jp.jpg)
+![DeatilsTransaction endpoint test  ](https://github.com/timiodubola/financial-transaction/blob/master/img/d.png)
 
 #### filterTransaction endpoint
-![system architecture ](https://github.com/timiodubola/financial-transaction/blob/master/jp.jpg)
+![filterTransaction endpoint test  ](https://github.com/timiodubola/financial-transaction/blob/master/img/c.png)

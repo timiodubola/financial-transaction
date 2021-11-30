@@ -10,7 +10,7 @@ export const typeDefs = gql`
     category:        String
     reference:       String
     currency:        String
-    amount:          Float
+    amount:          String
     status:          String
     transactionDate: DateTime
     createdAt:       DateTime

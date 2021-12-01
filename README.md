@@ -25,7 +25,7 @@ Application deployment screengrab: ![https://github.com/timiodubola/financial-tr
 Endpoint can be consumed either from a remote server which is hosted on Heroku.
 Postgres database is also hosted 
 
-To test endpoints of API [https://studio.apollographql.com/public/Fin-transaction/explorer?variant=current/](https://studio.apollographql.com/public/Fin-transaction/explorer?variant=current), also  check api documentation provided.
+To test endpoints of API [https://studio.apollographql.com/graph/Financial-transaction/settings/access?variant=current](https://studio.apollographql.com/graph/Financial-transaction/settings/access?variant=current), also  check api documentation provided.
 
 ### Preview 
 
